@@ -1,4 +1,8 @@
 DSFsdfdsfsdfdsfdsfsdfdsfds
 fdshfjksdhgjkdhgkjdfhgjsh
 gdfgfdshfdhfdgfdgdf
+<<<<<<< HEAD
 fdfdsdfs
+=======
+dasdasdsad
+>>>>>>> 8c3e35b760892a3f38aea9d56a195c0f06d9cf37
